@@ -34,7 +34,7 @@ export default function NewsArticlePage() {
         <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
           <Link
             href={`/news`}
-            className="inline-flex items-center gap-2 text-blue-100 hover:text-white mb-6 transition-colors"
+            className="inline-flex items-center gap-2 text-blue-100 hover:text-white transition-colors"
           >
             <ArrowLeft className="size-5" />
             {t('news.backToNews')}

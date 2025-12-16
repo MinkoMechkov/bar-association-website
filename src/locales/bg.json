@@ -1,0 +1,67 @@
+{
+  "nav.home": "Начало",
+  "nav.about": "За нас",
+  "nav.news": "Новини",
+  "nav.lawyers": "Адвокати",
+  "nav.login": "Вход за адвокати",
+
+  "hero.title": "Българска адвокатска колегия",
+  "hero.subtitle": "Защитаваме правата, поддържаме справедливостта и професионалната етика",
+  "hero.cta": "Намерете адвокат",
+
+  "services.title": "Нашите услуги",
+  "services.directory.title": "Регистър на адвокатите",
+  "services.directory.desc": "Намерете квалифициран адвокат за вашите нужди",
+  "services.ethics.title": "Професионална етика",
+  "services.ethics.desc": "Поддържаме най-високите стандарти на професионална етика",
+  "services.training.title": "Обучение",
+  "services.training.desc": "Непрекъснато професионално развитие и обучение",
+  "services.support.title": "Подкрепа за адвокати",
+  "services.support.desc": "Ресурси и подкрепа за нашите членове",
+
+  "news.latest": "Последни новини",
+  "news.readMore": "Прочети повече",
+  "news.viewAll": "Виж всички новини",
+  "news.title": "Новини и статии",
+  "news.filters": "Филтри",
+  "news.all": "Всички",
+  "news.announcements": "Обявления",
+  "news.articles": "Статии",
+  "news.events": "Събития",
+  "news.backToNews": "Назад към новините",
+
+  "lawyers.title": "Регистър на адвокатите",
+  "lawyers.search": "Търсене по име...",
+  "lawyers.filter.city": "Всички градове",
+  "lawyers.filter.all": "Всички",
+  "lawyers.viewProfile": "Виж профил",
+  "lawyers.results": "резултата",
+  "lawyers.noResults": "Не са намерени адвокати",
+  "lawyers.contact": "Контакти",
+  "lawyers.office": "Офис",
+  "lawyers.specializations": "Специализации",
+  "lawyers.biography": "Биография",
+  "lawyers.schedule": "Запазване на час",
+  "lawyers.personalNumber": "Личен номер",
+
+  "about.title": "За нас",
+  "about.mission.title": "Нашата мисия",
+  "about.mission.content": "Българската адвокатска колегия е професионална организация, която обединява адвокатите в България. Нашата мисия е да защитаваме правата и интересите на адвокатите, да поддържаме професионалната етика и да гарантираме качествени правни услуги на гражданите.",
+  "about.history.title": "История",
+  "about.history.content": "Основана през 1885 г., Българската адвокатска колегия има богата история на защита на правосъдието и професионалната етика. През годините организацията е израснала и се е развила, адаптирайки се към променящите се нужди на обществото и правната система.",
+  "about.leadership.title": "Ръководство",
+  "about.contact.title": "Свържете се с нас",
+  "about.contact.address": "Адрес",
+  "about.contact.phone": "Телефон",
+  "about.contact.email": "Имейл",
+
+  "footer.contact": "Контакти",
+  "footer.rights": "Всички права запазени",
+  "footer.followUs": "Последвайте ни",
+
+  "common.loading": "Зареждане...",
+  "common.error": "Възникна грешка",
+  "common.page": "Страница"
+}
+
+
